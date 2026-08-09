@@ -93,9 +93,9 @@ people actually want to look at.
 | | project | what it is | stack |
 |:--|:--|:--|:--|
 | `01` | **[ClaudeUsage](https://github.com/hrxshxx/claude-usage)** <sub>[`download`](https://github.com/hrxshxx/claude-usage/releases/latest)</sub> | macOS menu bar app and widget — live Claude limit windows, local token stats by model | `swift` `swiftui` |
-| `02` | **Suzune** <sub>`private`</sub> | Anti-nuke, moderation and utility bot — raid detection and server protection | `discord.js v14` |
+| `02` | **Suzune** <sub>`ongoing`</sub> | Anti-nuke, moderation and utility bot — raid detection and server protection | `discord.js v14` |
 | `03` | **[AirLock](https://github.com/hrxshxx/AirLock-Discord-Vc-Manager)** | Join-to-create voice channel manager with built-in moderation — aesthetic by default | `discord.js` `node` |
-| `04` | **beemo** <sub>`private`</sub> | Local AI assistant — wake word, weather, news and music, fully hands-free | `python` `openai` |
+| `04` | **[beemo](https://github.com/hrxshxx/beemo)** | Local AI assistant — wake word, weather, news and music, fully hands-free | `python` `openai` |
 | `05` | **[Kenshield](https://github.com/hrxshxx/kenshield-bot)** <sub>`archived`</sub> | Server hardening and protection layer, built as its own service | `node` `js` |
 
 <br />
