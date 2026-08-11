@@ -7,9 +7,7 @@
 <br />
 
 [![Website](https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=safari&logoColor=white&labelColor=0A0A0A)](https://guns.lol/hrxshx)
-[![Twitter](https://img.shields.io/badge/twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A)](https://twitter.com/hrxshx)
 [![Discord](https://img.shields.io/badge/discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A)](https://discord.com/invite/QEykkuk6Gq)
-[![Behance](https://img.shields.io/badge/behance-0A0A0A?style=for-the-badge&logo=behance&logoColor=white&labelColor=0A0A0A)](https://www.behance.net/Hrxshx)
 [![Top.gg](https://img.shields.io/badge/top.gg-0A0A0A?style=for-the-badge&logo=probot&logoColor=white&labelColor=0A0A0A)](https://top.gg/user/1406540820332085248)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="" />
