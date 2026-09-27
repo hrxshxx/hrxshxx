@@ -6,7 +6,6 @@
 
 <br />
 
-[![Website](https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=safari&logoColor=white&labelColor=0A0A0A)](https://hrishi.site)
 [![Discord](https://img.shields.io/badge/discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A)](https://discord.com/invite/QEykkuk6Gq)
 [![Top.gg](https://img.shields.io/badge/top.gg-0A0A0A?style=for-the-badge&logo=probot&logoColor=white&labelColor=0A0A0A)](https://top.gg/user/1406540820332085248)
 
