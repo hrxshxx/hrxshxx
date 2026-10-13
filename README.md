@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=46&pause=100000&color=FFFFFF&center=true&vCenter=true&width=440&height=72&lines=hrxshx" alt="Hrishi" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=46&pause=100000&color=FFFFFF&center=true&vCenter=true&width=440&height=72&lines=Hrishi" alt="Hrishi" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1600&color=FFFFFF&center=true&vCenter=true&width=460&height=32&lines=developer+%2F+designer;analytics+%E2%86%92+automation+%E2%86%92+decisions;business+student+who+ships" alt="developer / designer" />
 
