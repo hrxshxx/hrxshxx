@@ -80,6 +80,4 @@ Currently building Discord infrastructure: moderation, anti-nuke and voice tooli
 <!-- Live Discord presence via Lanyard; requires membership in https://discord.gg/lanyard. -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/607412964328210441?showDisplayName=true&borderRadius=14px&idleMessage=probably%20building%20something)](https://discord.com/users/607412964328210441)
 
-<img src="https://komarev.com/ghpvc/?username=hrxshxx&style=flat-square&color=0A0A0A&label=views" alt="profile views" />
-
 </div>
